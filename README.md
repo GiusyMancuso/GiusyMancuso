@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### I’m currently learning Kotlin
+### 😄 I'm from Marina di Gioiosa Ionica(RC)
+### 🌱 I’m currently learning Kotlin, Android and Git through Develhope course
+### 📫 Yuo can reach me on Linkedin: linkedin.com/in/giusy-mancuso-44704323b
 
 <!--
 **GiusyMancuso/GiusyMancuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
